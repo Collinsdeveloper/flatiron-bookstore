@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.209" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-04-09T14:23:31" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Flatbooks DOM Tests" timestamp="2026-04-09T14:23:31" tests="4" file="/home/collins-kipngetich/Documents/Module-2/flatiron-bookstore/test/index.test.js" time="0.208" failures="0">
+    <testcase name="Flatbooks DOM Tests header should have text &apos;Flatbooks Technical Books&apos;" time="0.000" classname="header should have text &apos;Flatbooks Technical Books&apos;">
+    </testcase>
+    <testcase name="Flatbooks DOM Tests #book-list should have book titles" time="0.004" classname="#book-list should have book titles">
+    </testcase>
+    <testcase name="Flatbooks DOM Tests #book-list should have book authors" time="0.001" classname="#book-list should have book authors">
+    </testcase>
+    <testcase name="Flatbooks DOM Tests #book-list should have book images" time="0.007" classname="#book-list should have book images">
+    </testcase>
+  </testsuite>
+</testsuites>
